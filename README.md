@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @SayliDRay
+- 👀 I’m interested in AI & Big DATA 
+- 🌱 I’m currently learning Javascript , PHP , Python and 
+- 💞️ I’m looking to collaborate on Machine learning projects , and to learn more about the artificial intelligence 
+- 📫 How to reach me ilyas.bendaoue@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love One Piece and i wanna travel the world just like Luffy 
